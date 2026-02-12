@@ -14,8 +14,6 @@ development/*
 .idea
 
 # VS Code
-.vscode/**
-!.vscode/extensions.json
 
 # VS Code devcontainer
 .devcontainer
@@ -28,3 +26,6 @@ venv
 
 # NodeJS
 node_modules
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
